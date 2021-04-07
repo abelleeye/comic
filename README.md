@@ -1,8 +1,5 @@
 # comic
 
-abel@abellee.cn
+email: abel@abellee.cn
 
-演示地址：www.abellee.cn/comic
-
-
-<iframe src="https://www.abellee.cn/comic"></iframe>
+adress：https://www.abellee.cn/comic
