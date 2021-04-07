@@ -2,7 +2,7 @@
 
 email: abel@abellee.cn
 
-adress：https://www.abellee.cn/comic
+address：https://www.abellee.cn/comic
 
 example:
 
